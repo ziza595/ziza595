@@ -7,7 +7,8 @@
 
 
 - 🔭 Je suis curieux, dynamique et j'ai un bon esprit de leadership
-- 🌱 J'aime les défis et c'est d'ailleurs la raison pour laquelle j'avais lancé une formation sous Python il y'a de cela un an avec des étudiants (et pourtant j'avais peu d'expérience 🤣). C'était quand même très bien réussi grâce à ma technique secrête **learn fast and efficiently**
+- 🌱 J'aime les défis et c'est d'ailleurs la raison pour laquelle j'avais lancé une formation sous Python il y'a de cela un an avec des étudiants (et pourtant j'avais peu d'expériences 🤣). C'était quand même très bien réussi grâce à ma technique secrête **`learn fast and efficiently`**
+- 🌱 J'ai réalisé pas mal de projets (personnels et professionnels) : création d'application web avec le design responsive, analyse et visualisation de données statistiques avec les bibliothèques Python : `NumPy`, `Pandas`, `Matplotlib` et `Seaborn`, développement d'API avec le framework Flask de Python, etc.
 - 👯 J'aime partagé et j'ai mainte fois travaillé en équipe dans de diverses projets et parfois avec des personnes que je ne connaîs pas forcément
 - ⚡ J'aime la lecture, le sport (cyclisme, karaté, natation, gymnastique et basketball) et surtout les dessins animés (Dr Stone : mon préféré)
 
